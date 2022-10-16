@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  robo-n8n-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-15T23:40:34.460612-06:00"
+    description: A Helm chart for Kubernetes
+    digest: 020a1e1535974e8f08bd6b8e288f6580db0106c4019d928c96985a15b2c8fd36
+    name: robo-n8n-test
+    type: application
+    urls:
+    - https://guiberacosta.github.io/robo-n8n/robo-n8n-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-15T23:40:34.459898-06:00"
